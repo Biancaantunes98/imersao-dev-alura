@@ -1,0 +1,72 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://saude.abril.com.br/wp-content/uploads/2017/03/agua01.jpg');
+    background-color: #000000;
+    background-size: 200vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#000000;
+    margin: 00px 0 00px;
+    font-size: 280%;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  .page-subtitle {
+    color:#000000;
+    margin: 20px;
+    font-size: 120%;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  .page-body {
+    color:#000;
+    margin: 40px 00px 00px;
+    font-size: 150%;
+    font-family: "Lucida Console", "Courier New", monospace; 
+  }
+
+  input[type="number"]{
+    text-align: center;
+    font-size: 100%;
+    width:100px;
+    height: 25px;  
+    margin: 00px;
+    font-family: "lucida console, monospace";
+   }
+     
+  input[type="button"]{
+    font-size: 100%;
+    width:100px;
+    height: 25px; 
+    margin: 30px;
+    color:#000000;
+    font-family: "Lucida Console", "Courier New", monospace; 
+   }
+  
+  .created-by {
+    color:#000;
+    margin: 40px 00px 00px;
+    font-size: 150%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
